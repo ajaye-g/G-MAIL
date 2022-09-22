@@ -147,7 +147,7 @@ body {
 /*email list*/
 .emaillist {
 	flex: 1;
-	overflow: scroll;
+	
 }
 
 .emaillist_settings {
