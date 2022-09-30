@@ -6,7 +6,7 @@
 
 /* header */
 .image2 {
-	object-fit: contain;
+	
 	margin-left: 5px;
 	width: 90px;
 }
@@ -369,7 +369,10 @@ body {
 	.header-middle {
 		padding: 0px;
 	}
-
+        .header_right {
+                display: flex;
+                padding-right: 8px;
+        }
 	.material-symbols-outlined {
 		font-size: 15px;
 	}
